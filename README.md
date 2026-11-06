@@ -1,4 +1,4 @@
-# What Drives a University's Global Ranking? A Relational Analysis of the QS World University Rankings 2024
+# Relational Modelling and SQL Analytics of the QS World University Rankings
 
 **Research question:** Which of the nine QS indicators move with a university's overall position, and where do academic and employer views of a university diverge?
 
